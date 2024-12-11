@@ -65,7 +65,3 @@ A variety of SQL queries were employed to derive insights, including:
 ## Results
 
 The analyses provided actionable insights for addressing operational inefficiencies and improving user engagement, sales, and product quality.
-
----
-
-## Folder Structure
